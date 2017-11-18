@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  projectCode: 1
+  projectDescription: MyString
+  projectResume: MyString
+  projectStatus: MyString
+  projectLaunchDate: 2017-11-18 11:51:23
+  projectCloserDate: 2017-11-18 11:51:23
+  projectImage: MyString
+  projectCityLocation: MyString
+  projectCountryLocation: MyString
+  projectStage: MyString
+  projectKeyWords: MyString
+  projectTeamSize: 1
+  projectVideo: MyString
+  projectCollectGoal: 1
+  projectFundsCurrency: MyString
+  projectCollectTime: 1
+  createdBy: 1
+
+two:
+  projectCode: 1
+  projectDescription: MyString
+  projectResume: MyString
+  projectStatus: MyString
+  projectLaunchDate: 2017-11-18 11:51:23
+  projectCloserDate: 2017-11-18 11:51:23
+  projectImage: MyString
+  projectCityLocation: MyString
+  projectCountryLocation: MyString
+  projectStage: MyString
+  projectKeyWords: MyString
+  projectTeamSize: 1
+  projectVideo: MyString
+  projectCollectGoal: 1
+  projectFundsCurrency: MyString
+  projectCollectTime: 1
+  createdBy: 1
