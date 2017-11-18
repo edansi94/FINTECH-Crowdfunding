@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  documentAttributesDescriptor: MyString
+  Document: one
+  metadataChain: 1
+  descriptorCode01: MyString
+  descriptorCode02: MyString
+  descriptorCode03: MyString
+  additionalValue01: MyString
+  additionalValue02: MyString
+  additionalValue03: MyString
+
+two:
+  documentAttributesDescriptor: MyString
+  Document: two
+  metadataChain: 1
+  descriptorCode01: MyString
+  descriptorCode02: MyString
+  descriptorCode03: MyString
+  additionalValue01: MyString
+  additionalValue02: MyString
+  additionalValue03: MyString

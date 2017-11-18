@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  projectAttributesId: 1
+  projectAttributesCode: 1
+  projectCode: MyString
+  metaDataChain: 1
+  descriptorCode01: 1
+  descriptorCode02: 1
+  descriptorCode03: 1
+  additionalValue01: MyString
+  additionalValue02: MyString
+  additionalValue03: MyString
+  createdBy: 1
+
+two:
+  projectAttributesId: 1
+  projectAttributesCode: 1
+  projectCode: MyString
+  metaDataChain: 1
+  descriptorCode01: 1
+  descriptorCode02: 1
+  descriptorCode03: 1
+  additionalValue01: MyString
+  additionalValue02: MyString
+  additionalValue03: MyString
+  createdBy: 1
